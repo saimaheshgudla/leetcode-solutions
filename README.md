@@ -23,6 +23,7 @@
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
@@ -93,4 +94,8 @@
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
