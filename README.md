@@ -107,6 +107,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Backtracking
 |  |
@@ -228,4 +229,12 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0547-number-of-provinces) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
