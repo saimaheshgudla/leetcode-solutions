@@ -33,6 +33,7 @@
 | [0042-trapping-rain-water](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -70,6 +71,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0542-01-matrix](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
 |  |
@@ -201,6 +203,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0542-01-matrix](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -245,6 +248,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
