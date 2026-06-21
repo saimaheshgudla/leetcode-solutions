@@ -32,6 +32,7 @@
 | [0040-combination-sum-ii](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0130-surrounded-regions](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0496-next-greater-element-i](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0542-01-matrix) |
@@ -161,6 +162,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -208,6 +210,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -239,6 +242,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
@@ -257,6 +261,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0994-rotting-oranges) |
