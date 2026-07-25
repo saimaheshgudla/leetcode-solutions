@@ -78,6 +78,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -126,6 +127,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Backtracking
 |  |
@@ -326,4 +328,8 @@
 | [0743-network-delay-time](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
