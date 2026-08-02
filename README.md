@@ -34,6 +34,7 @@
 | [0040-combination-sum-ii](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0130-surrounded-regions](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0198-house-robber) |
@@ -83,6 +84,7 @@
 | [0042-trapping-rain-water](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0198-house-robber) |
@@ -310,6 +312,7 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0542-01-matrix) |
