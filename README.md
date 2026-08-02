@@ -80,6 +80,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0198-house-robber) |
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Backtracking
@@ -336,4 +338,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
