@@ -45,6 +45,7 @@
 | [0322-coin-change](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0542-01-matrix) |
@@ -96,6 +97,7 @@
 | [0213-house-robber-ii](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -153,6 +155,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0494-target-sum](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0494-target-sum) |
 ## Tree
 |  |
 | ------- |
@@ -368,10 +371,12 @@
 | ------- |
 | [0322-coin-change](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0494-target-sum) |
 ## Quicksort
 |  |
 | ------- |
