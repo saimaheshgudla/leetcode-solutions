@@ -152,6 +152,7 @@
 | [0062-unique-paths](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -389,4 +390,8 @@
 | ------- |
 | [0322-coin-change](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0518-coin-change-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
