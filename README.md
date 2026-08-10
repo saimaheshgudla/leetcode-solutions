@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0067-add-binary) |
 | [0402-remove-k-digits](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -108,6 +109,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0735-asteroid-collision) |
 ## Greedy
 |  |
@@ -152,6 +154,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -285,6 +288,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Search Tree
 |  |
