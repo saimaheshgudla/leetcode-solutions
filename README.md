@@ -48,6 +48,7 @@
 | [0198-house-robber](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0455-assign-cookies) |
@@ -74,6 +75,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -301,6 +303,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Bit Manipulation
