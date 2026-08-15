@@ -349,10 +349,12 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0203-remove-linked-list-elements](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 ## Matrix
 |  |
 | ------- |
