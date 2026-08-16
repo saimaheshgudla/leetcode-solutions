@@ -12,6 +12,7 @@
 | [0067-add-binary](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0402-remove-k-digits](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -78,6 +79,7 @@
 | [0001-two-sum](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0290-word-pattern](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
