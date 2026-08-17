@@ -170,6 +170,7 @@
 | [0067-add-binary](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0292-nim-game](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0292-nim-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Backtracking
@@ -465,4 +466,24 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0191-number-of-1-bits) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
