@@ -73,6 +73,7 @@
 | [1020-number-of-enclaves](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1386-cinema-seat-allocation](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1631-path-with-minimum-effort](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2104-sum-of-subarray-ranges](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
@@ -91,6 +92,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1248-count-number-of-nice-subarrays](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -131,6 +133,7 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [1386-cinema-seat-allocation](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -339,6 +342,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0342-power-of-four) |
+| [1386-cinema-seat-allocation](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 ## Binary Search Tree
 |  |
 | ------- |
