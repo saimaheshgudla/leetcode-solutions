@@ -109,6 +109,7 @@
 | [0198-house-robber](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0518-coin-change-ii) |
@@ -326,6 +327,7 @@
 | [0190-reverse-bits](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0338-counting-bits](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0338-counting-bits) |
 ## Binary Search Tree
 |  |
 | ------- |
