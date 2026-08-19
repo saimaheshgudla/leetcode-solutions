@@ -55,6 +55,7 @@
 | [0217-contains-duplicate](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0322-coin-change](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0322-coin-change) |
+| [0349-intersection-of-two-arrays](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0494-target-sum) |
@@ -82,6 +83,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -140,6 +142,7 @@
 | [0125-valid-palindrome](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Sliding Window
@@ -157,6 +160,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0349-intersection-of-two-arrays](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Prefix Sum
@@ -323,6 +327,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Bit Manipulation
