@@ -16,6 +16,7 @@
 | [0344-reverse-string](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -88,6 +89,7 @@
 | [0290-word-pattern](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -514,4 +516,9 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
