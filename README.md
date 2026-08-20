@@ -77,6 +77,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1631-path-with-minimum-effort](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2104-sum-of-subarray-ranges](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -128,6 +129,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Greedy
 |  |
 | ------- |
