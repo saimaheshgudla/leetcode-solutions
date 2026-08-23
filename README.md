@@ -21,6 +21,7 @@
 | [0402-remove-k-digits](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Stack
@@ -139,6 +140,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Greedy
@@ -201,6 +203,7 @@
 | [0342-power-of-four](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0415-add-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
