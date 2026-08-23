@@ -25,6 +25,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1927-sum-game](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/1927-sum-game) |
 ## Stack
 |  |
 | ------- |
@@ -151,6 +152,7 @@
 | [0409-longest-palindrome](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [1386-cinema-seat-allocation](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/1927-sum-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -206,6 +208,7 @@
 | [0412-fizz-buzz](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0415-add-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1927-sum-game](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/1927-sum-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Backtracking
@@ -525,6 +528,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/0292-nim-game) |
+| [1927-sum-game](https://github.com/saimaheshgudla/leetcode-solutions/tree/master/1927-sum-game) |
 ## Nim Game
 |  |
 | ------- |
